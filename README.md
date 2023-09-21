@@ -6,7 +6,7 @@
 
 ◽ 🔭 Explorando novas tecnologias e desenvolvendo soluções de software.                                                                                                                                      
 ◽ 🎓 Estudando Análise e Desenvolvimento de Sistemas na <a ref ="https://www.unipe.edu.br">Faculdade UNIPE<a>.                                                                                               
-◽ 🌱 Aprendendo mais sobre Spring Boot.
+◽ 🌱 Aprendendo mais sobre Java.
 
 
 <div>
