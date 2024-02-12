@@ -19,12 +19,12 @@
 
 Aplicações
 
-   [![My Skills](https://skillicons.dev/icons?i=java,c,php,python,mysql,js,html,css)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=java,spring,c,php,python,mysql,js,html,css)](https://skillicons.dev)
 <br>
 
 DevOps
 
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,intellij)](https://skillicons.dev)
 
 Ferramentas de Desenvolvimento
 
