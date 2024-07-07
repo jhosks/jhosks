@@ -28,7 +28,7 @@ DevOps
 
 Ferramentas de Desenvolvimento
 
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,eclipse)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,eclipse,intellij)](https://skillicons.dev)
  <br/>
 <br/>
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
